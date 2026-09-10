@@ -12,6 +12,18 @@
 x install hazelnut
 ```
 
+## 代码规模
+
+合计: **11,395** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 6,290 | 291 | 838 | 19 |
+| Json | 5,018 | 0 | 0 | 3 |
+| Toml | 55 | 7 | 11 | 1 |
+| Xml | 21 | 0 | 0 | 1 |
+| JavaScript | 8 | 2 | 1 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/ricardodantas/hazelnut>
@@ -23,18 +35,6 @@ x install hazelnut
 - **最新版本**: `v0.3.0` (2026-08-02)
 - **最近提交**: 2026-08-02
 - **Release 含资产**: 7 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [hazelnut-0.3.0-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-apple-darwin.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
-| [hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/arm64/glibc` |
-| [hazelnut-0.3.0-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
-| [hazelnut-0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-pc-windows-msvc.zip) | 2.5 MiB | `native/win/x64` |
-| [hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/x64/glibc` |
-| [hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz) | 5.1 MiB | `native/linux/x64/musl` |
-| [SHA256SUMS.txt](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/SHA256SUMS.txt) | 666 B | `other` |
 
 ## 流行度
 
@@ -49,20 +49,23 @@ x install hazelnut
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 1 | 1 | 5 | 0 | 1 | 3 |
 | 90d | 2026-06-12 | 1 | 1 | 5 | 1 | 1 | 3 |
+| last180d | 2026-03-14 | 1 | 2 | 5 | 1 | 1 | 5 |
 | 360d | 2025-09-15 | 47 | 7 | 5 | 4 | 1 | 197 |
+| last720d | 2024-09-20 | 47 | 7 | 5 | 4 | 1 | 199 |
 
-## 代码规模
+## Release 资产
 
-合计: **11,395** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 6,290 | 291 | 838 | 19 |
-| Json | 5,018 | 0 | 0 | 3 |
-| Toml | 55 | 7 | 11 | 1 |
-| Xml | 21 | 0 | 0 | 1 |
-| JavaScript | 8 | 2 | 1 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hazelnut-0.3.0-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-apple-darwin.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
+| [hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/arm64/glibc` |
+| [hazelnut-0.3.0-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
+| [hazelnut-0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-pc-windows-msvc.zip) | 2.5 MiB | `native/win/x64` |
+| [hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/x64/glibc` |
+| [hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz) | 5.1 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/SHA256SUMS.txt) | 666 B | `other` |
 
 ## 改进这些数据
 
@@ -73,4 +76,4 @@ hazelnut 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:26:23Z._

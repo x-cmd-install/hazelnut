@@ -12,6 +12,18 @@
 x install hazelnut
 ```
 
+## Code insight
+
+Total: **11,395** lines of code across **25** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 6,290 | 291 | 838 | 19 |
+| Json | 5,018 | 0 | 0 | 3 |
+| Toml | 55 | 7 | 11 | 1 |
+| Xml | 21 | 0 | 0 | 1 |
+| JavaScript | 8 | 2 | 1 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ricardodantas/hazelnut>
@@ -23,18 +35,6 @@ x install hazelnut
 - **Latest**: `v0.3.0` (2026-08-02)
 - **Last commit**: 2026-08-02
 - **Assets in release**: 7
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [hazelnut-0.3.0-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-apple-darwin.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
-| [hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/arm64/glibc` |
-| [hazelnut-0.3.0-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
-| [hazelnut-0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-pc-windows-msvc.zip) | 2.5 MiB | `native/win/x64` |
-| [hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/x64/glibc` |
-| [hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz) | 5.1 MiB | `native/linux/x64/musl` |
-| [SHA256SUMS.txt](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/SHA256SUMS.txt) | 666 B | `other` |
 
 ## Popularity
 
@@ -49,20 +49,23 @@ x install hazelnut
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 1 | 1 | 5 | 0 | 1 | 3 |
 | 90d | 2026-06-12 | 1 | 1 | 5 | 1 | 1 | 3 |
+| last180d | 2026-03-14 | 1 | 2 | 5 | 1 | 1 | 5 |
 | 360d | 2025-09-15 | 47 | 7 | 5 | 4 | 1 | 197 |
+| last720d | 2024-09-20 | 47 | 7 | 5 | 4 | 1 | 199 |
 
-## Code size
+## Release assets
 
-Total: **11,395** lines of code across **25** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 6,290 | 291 | 838 | 19 |
-| Json | 5,018 | 0 | 0 | 3 |
-| Toml | 55 | 7 | 11 | 1 |
-| Xml | 21 | 0 | 0 | 1 |
-| JavaScript | 8 | 2 | 1 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [hazelnut-0.3.0-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-apple-darwin.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
+| [hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/arm64/glibc` |
+| [hazelnut-0.3.0-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
+| [hazelnut-0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-pc-windows-msvc.zip) | 2.5 MiB | `native/win/x64` |
+| [hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/x64/glibc` |
+| [hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz) | 5.1 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/SHA256SUMS.txt) | 666 B | `other` |
 
 ## Improve this data
 
@@ -73,4 +76,4 @@ Install metadata for hazelnut lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:26:21Z._
