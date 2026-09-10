@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5210688,
       "digest": "sha256:d89cd9e0e84d92ce4b3cb91a5b59bacffc5125693af07d25ce446e1741624a78",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-08-02T20:34:32Z",
       "updated_at": "2026-08-02T20:34:33Z",
       "browser_download_url": "https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz"
