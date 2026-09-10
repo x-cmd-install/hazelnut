@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3962965,
       "digest": "sha256:b1bdb49a7daf316bd6bd13e4cae52e6f6d31f821025568c2e9ee6e6f72df737c",
-      "download_count": 170,
+      "download_count": 173,
       "created_at": "2026-08-02T20:34:32Z",
       "updated_at": "2026-08-02T20:34:33Z",
       "browser_download_url": "https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4279515,
       "digest": "sha256:852fa524858186d1da7e5f45468aec7b9a0b3a70d8d7ea1d40e2e0990e1122a6",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-02T20:34:32Z",
       "updated_at": "2026-08-02T20:34:33Z",
       "browser_download_url": "https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5210688,
       "digest": "sha256:d89cd9e0e84d92ce4b3cb91a5b59bacffc5125693af07d25ce446e1741624a78",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-08-02T20:34:32Z",
       "updated_at": "2026-08-02T20:34:33Z",
       "browser_download_url": "https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz"
