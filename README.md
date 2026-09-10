@@ -23,11 +23,22 @@ x install hazelnut
 - **Latest**: `v0.3.0` (2026-08-02)
 - **Last commit**: 2026-08-02
 - **Assets in release**: 7
-- **Published**: 2026-08-02T20:34:33Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [hazelnut-0.3.0-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-apple-darwin.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
+| [hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/arm64/glibc` |
+| [hazelnut-0.3.0-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
+| [hazelnut-0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-pc-windows-msvc.zip) | 2.5 MiB | `native/win/x64` |
+| [hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/x64/glibc` |
+| [hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz) | 5.1 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/SHA256SUMS.txt) | 666 B | `other` |
 
 ## Popularity
 
-- **Stars**: 296 · **Forks**: 14 · **Open issues**: 5 · **Contributors**: 3
+- **Stars**: 298 · **Forks**: 14 · **Open issues**: 5 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -58,8 +69,8 @@ Total: **11,395** lines of code across **25** files in the top 5 languages.
 Install metadata for hazelnut lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hazelnut` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/hazelnut.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/hazelnut.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:33:59Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:09Z._

@@ -4,7 +4,7 @@
 
 🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.
 
-![hazelnut](https://repo.x-cmd.io/hazelnut.svg)
+![hazelnut](https://repo.x-cmd.io/hazelnut.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,22 @@ x install hazelnut
 - **最新版本**: `v0.3.0` (2026-08-02)
 - **最近提交**: 2026-08-02
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-08-02T20:34:33Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hazelnut-0.3.0-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-apple-darwin.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
+| [hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/arm64/glibc` |
+| [hazelnut-0.3.0-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
+| [hazelnut-0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-pc-windows-msvc.zip) | 2.5 MiB | `native/win/x64` |
+| [hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/x64/glibc` |
+| [hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz) | 5.1 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/SHA256SUMS.txt) | 666 B | `other` |
 
 ## 流行度
 
-- **Star**: 296 · **Fork**: 14 · **开放 issue**: 5 · **贡献者**: 3
+- **Star**: 298 · **Fork**: 14 · **开放 issue**: 5 · **贡献者**: 3
 
 ## 累计统计
 
@@ -62,4 +73,4 @@ hazelnut 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:33:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:09Z._
