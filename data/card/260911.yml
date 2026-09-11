@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.0"
   latestRelease: "v0.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:44:58Z
+  collectedAt: 2026-09-11T20:12:49Z
 timeline:
   created: 2026-02-04
   lastCommit: 2026-08-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-02
   lastPrerelease: 
 popularity:
-  star: 298
+  star: 299
   watcher: 0
   fork: 14
   release: 47
@@ -85,7 +85,7 @@ total:
   commit: 199
 ---
 path: /home/runner/.x-repo/github.com/ricardodantas/hazelnut
-collectedAt: 2026-09-11T04:45:00Z
+collectedAt: 2026-09-11T20:12:50Z
 loc:
   Rust:
     code: 6290
