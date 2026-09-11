@@ -42,18 +42,18 @@ Total: **11,395** lines of code across **25** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 7 · **Open PRs**: 5 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 199
+- **Releases**: 47 · **Merged PRs**: 7 · **Open PRs**: 6 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last60d | 2026-07-12 | 1 | 1 | 5 | 0 | 1 | 3 |
-| 90d | 2026-06-12 | 1 | 1 | 5 | 1 | 1 | 3 |
-| last180d | 2026-03-14 | 1 | 2 | 5 | 1 | 1 | 5 |
-| 360d | 2025-09-15 | 47 | 7 | 5 | 4 | 1 | 197 |
-| last720d | 2024-09-20 | 47 | 7 | 5 | 4 | 1 | 199 |
+| 30d | 2026-08-12 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 1 | 1 | 6 | 0 | 1 | 3 |
+| 90d | 2026-06-13 | 1 | 1 | 6 | 1 | 1 | 3 |
+| last180d | 2026-03-15 | 1 | 2 | 6 | 1 | 1 | 5 |
+| 360d | 2025-09-16 | 47 | 7 | 6 | 4 | 1 | 197 |
+| last720d | 2024-09-21 | 47 | 7 | 6 | 4 | 1 | 199 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for hazelnut lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:27:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:45:06Z._
