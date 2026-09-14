@@ -38,7 +38,7 @@ Total: **11,395** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 297 · **Forks**: 14 · **Open issues**: 5 · **Contributors**: 3
+- **Stars**: 298 · **Forks**: 14 · **Open issues**: 5 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **11,395** lines of code across **25** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 1 | 1 | 6 | 0 | 1 | 3 |
-| 90d | 2026-06-15 | 1 | 1 | 6 | 1 | 1 | 3 |
-| last180d | 2026-03-17 | 1 | 2 | 6 | 1 | 1 | 3 |
-| 360d | 2025-09-18 | 47 | 7 | 6 | 4 | 1 | 197 |
-| last720d | 2024-09-23 | 47 | 7 | 6 | 4 | 1 | 199 |
+| 30d | 2026-08-15 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 1 | 1 | 6 | 0 | 1 | 3 |
+| 90d | 2026-06-16 | 1 | 1 | 6 | 1 | 1 | 3 |
+| last180d | 2026-03-18 | 1 | 2 | 6 | 1 | 1 | 3 |
+| 360d | 2025-09-19 | 47 | 7 | 6 | 4 | 1 | 197 |
+| last720d | 2024-09-24 | 47 | 7 | 6 | 4 | 1 | 199 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for hazelnut lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:45:42Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:48:13Z._
