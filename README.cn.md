@@ -4,7 +4,7 @@
 
 🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.
 
-![hazelnut](https://repo.x-cmd.io/hazelnut.svg?lang=zh)
+[![x-cmd/install — hazelnut Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hazelnut.svg?lang=zh)](https://x-cmd.com/install/hazelnut)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install hazelnut
 
 ## 流行度
 
-- **Star**: 298 · **Fork**: 14 · **开放 issue**: 5 · **贡献者**: 3
+- **Star**: 299 · **Fork**: 14 · **开放 issue**: 5 · **贡献者**: 3
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install hazelnut
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 1 | 1 | 7 | 0 | 1 | 3 |
-| 90d | 2026-06-20 | 1 | 1 | 7 | 1 | 1 | 3 |
-| last180d | 2026-03-22 | 1 | 2 | 7 | 1 | 1 | 3 |
-| 360d | 2025-09-23 | 47 | 7 | 7 | 4 | 1 | 197 |
-| last720d | 2024-09-28 | 47 | 7 | 7 | 4 | 1 | 199 |
+| 30d | 2026-08-21 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 1 | 1 | 7 | 0 | 1 | 3 |
+| 90d | 2026-06-22 | 1 | 1 | 7 | 1 | 1 | 3 |
+| last180d | 2026-03-24 | 1 | 2 | 7 | 1 | 1 | 3 |
+| 360d | 2025-09-25 | 47 | 7 | 7 | 4 | 1 | 197 |
+| last720d | 2024-09-30 | 47 | 7 | 7 | 4 | 1 | 199 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ hazelnut 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:49:03Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:51:35Z._
