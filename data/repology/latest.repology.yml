@@ -21,6 +21,28 @@
     - dominiquini@aur
   licenses:
     - GPL-3.0
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: hazelnut
+  binname: hazelnut
+  visiblename: hazelnut
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: unique
+  summary: Terminal-based automated file organizer
+  licenses:
+    - GPL-3.0-or-later
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: hazelnut
+  binname: hazelnut
+  visiblename: hazelnut
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: unique
+  summary: Terminal-based automated file organizer
+  licenses:
+    - GPL-3.0-or-later
 - repo: manjaro_unstable
   subrepo: extra
   srcname: hazelnut
