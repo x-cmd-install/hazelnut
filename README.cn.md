@@ -14,12 +14,12 @@ x install hazelnut
 
 ## 代码洞察
 
-合计: **11,395** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
+合计: **11,972** 行代码（覆盖前 5 种语言、共 **27** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 6,290 | 291 | 838 | 19 |
-| Json | 5,018 | 0 | 0 | 3 |
+| Rust | 7,630 | 324 | 1,052 | 21 |
+| Json | 4,255 | 0 | 0 | 3 |
 | Toml | 55 | 7 | 11 | 1 |
 | Xml | 21 | 0 | 0 | 1 |
 | JavaScript | 8 | 2 | 1 | 1 |
@@ -32,40 +32,40 @@ x install hazelnut
 
 ## 发布
 
-- **最新版本**: `v0.3.0` (2026-08-02)
-- **最近提交**: 2026-08-02
+- **最新版本**: `v0.3.2` (2026-11-09)
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 330 · **Fork**: 15 · **开放 issue**: 7 · **贡献者**: 3
+- **Star**: 330 · **Fork**: 15 · **开放 issue**: 7 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 7 · **开放 PR**: 5 · **已关闭 issue**: 4 · **开放 issue**: 3 · **提交数**: 199
+- **发布数**: 49 · **已合并 PR**: 17 · **开放 PR**: 0 · **已关闭 issue**: 7 · **开放 issue**: 0 · **提交数**: 211
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last60d | 2026-09-10 | 0 | 0 | 5 | 0 | 2 | 0 |
-| 90d | 2026-08-11 | 0 | 0 | 5 | 0 | 3 | 0 |
-| last180d | 2026-05-13 | 1 | 2 | 5 | 1 | 3 | 3 |
-| 360d | 2025-11-14 | 47 | 7 | 5 | 4 | 3 | 197 |
-| last720d | 2024-11-19 | 47 | 7 | 5 | 4 | 3 | 199 |
+| 30d | 2026-10-11 | 2 | 10 | 0 | 1 | 0 | 12 |
+| last60d | 2026-09-11 | 2 | 10 | 0 | 2 | 0 | 12 |
+| 90d | 2026-08-12 | 2 | 10 | 0 | 3 | 0 | 12 |
+| last180d | 2026-05-14 | 3 | 12 | 0 | 4 | 0 | 15 |
+| 360d | 2025-11-15 | 49 | 17 | 0 | 7 | 0 | 209 |
+| last720d | 2024-11-20 | 49 | 17 | 0 | 7 | 0 | 211 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hazelnut-0.3.0-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-apple-darwin.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
-| [hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-aarch64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/arm64/glibc` |
-| [hazelnut-0.3.0-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
-| [hazelnut-0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-pc-windows-msvc.zip) | 2.5 MiB | `native/win/x64` |
-| [hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/x64/glibc` |
-| [hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/hazelnut-0.3.0-x86_64-unknown-linux-musl.tar.gz) | 5.1 MiB | `native/linux/x64/musl` |
-| [SHA256SUMS.txt](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.0/SHA256SUMS.txt) | 666 B | `other` |
+| [hazelnut-0.3.2-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.2/hazelnut-0.3.2-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
+| [hazelnut-0.3.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.2/hazelnut-0.3.2-aarch64-unknown-linux-gnu.tar.gz) | 4.8 MiB | `native/linux/arm64/glibc` |
+| [hazelnut-0.3.2-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.2/hazelnut-0.3.2-x86_64-apple-darwin.tar.gz) | 4.2 MiB | `native/darwin/x64` |
+| [hazelnut-0.3.2-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.2/hazelnut-0.3.2-x86_64-pc-windows-msvc.zip) | 2.6 MiB | `native/win/x64` |
+| [hazelnut-0.3.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.2/hazelnut-0.3.2-x86_64-unknown-linux-gnu.tar.gz) | 5.1 MiB | `native/linux/x64/glibc` |
+| [hazelnut-0.3.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.2/hazelnut-0.3.2-x86_64-unknown-linux-musl.tar.gz) | 5.3 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/ricardodantas/hazelnut/releases/download/v0.3.2/SHA256SUMS.txt) | 666 B | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ hazelnut 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:09:28Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:10:52Z._
