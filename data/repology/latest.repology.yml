@@ -1,3 +1,25 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: hazelnut
+  binname: hazelnut
+  visiblename: hazelnut
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  summary: Terminal-based automated file organizer
+  licenses:
+    - GPL-3.0-or-later
+- repo: parabola
+  subrepo: extra
+  srcname: hazelnut
+  binname: hazelnut
+  visiblename: hazelnut
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  summary: Terminal-based automated file organizer
+  licenses:
+    - GPL-3.0-or-later
 - repo: arch
   subrepo: extra
   srcname: hazelnut
@@ -5,7 +27,7 @@
   visiblename: hazelnut
   version: 0.3.0
   origversion: 0.3.0-1
-  status: unique
+  status: outdated
   summary: Terminal-based automated file organizer
   licenses:
     - GPL-3.0-or-later
@@ -13,8 +35,8 @@
   srcname: hazelnut-bin
   binname: hazelnut-bin
   visiblename: hazelnut-bin
-  version: 0.3.0
-  origversion: 0.3.0-1
+  version: 0.3.2
+  origversion: 0.3.2-1
   status: unique
   summary: Terminal-based automated file organizer
   maintainers:
@@ -28,7 +50,7 @@
   visiblename: hazelnut
   version: 0.3.0
   origversion: 0.3.0-1
-  status: unique
+  status: outdated
   summary: Terminal-based automated file organizer
   licenses:
     - GPL-3.0-or-later
@@ -39,29 +61,7 @@
   visiblename: hazelnut
   version: 0.3.0
   origversion: 0.3.0-1
-  status: unique
-  summary: Terminal-based automated file organizer
-  licenses:
-    - GPL-3.0-or-later
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: hazelnut
-  binname: hazelnut
-  visiblename: hazelnut
-  version: 0.3.0
-  origversion: 0.3.0-1
-  status: unique
-  summary: Terminal-based automated file organizer
-  licenses:
-    - GPL-3.0-or-later
-- repo: parabola
-  subrepo: extra
-  srcname: hazelnut
-  binname: hazelnut
-  visiblename: hazelnut
-  version: 0.3.0
-  origversion: 0.3.0-1
-  status: unique
+  status: outdated
   summary: Terminal-based automated file organizer
   licenses:
     - GPL-3.0-or-later
